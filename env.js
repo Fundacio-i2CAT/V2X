@@ -2,7 +2,7 @@
     window.__env = window.__env || {};
   
     // API url
-    window.__env.apiUrl = 'ws://84.88.36.186:9876';
+    window.__env.apiUrl = 'ws://savev2x.v2xreferencekit.com:9876';
     //8765
   
     // Whether or not to enable debug mode
