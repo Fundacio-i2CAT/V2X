@@ -2,7 +2,7 @@
     window.__env = window.__env || {};
   
     // API url
-    window.__env.apiUrl = 'ws://savev2x.v2xreferencekit.com:9876';
+    window.__env.apiUrl = 'wss://ob70cynal9.execute-api.eu-west-3.amazonaws.com/production/';
     //8765
   
     // Whether or not to enable debug mode
